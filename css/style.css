@@ -18,3 +18,17 @@ h2 {
     letter-spacing: normal;
     background-color: cornsilk;
 }
+a {
+    color: blue;
+}
+a:hover {
+    color: red;
+    font-weight: bolder;
+    font-size: larger;
+}
+a:active {
+    color: pink;
+}
+a:visited {
+    color: purple;
+}
