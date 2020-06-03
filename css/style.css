@@ -1,4 +1,6 @@
-
+body {
+    background: url("image/animal.png") no-repeat aqua;
+}
 p {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 2.5em;
